@@ -7,6 +7,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
+      "enable_xrefmap_share": true,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -14,11 +15,11 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "enable_xrefmap_share": true
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
+  "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
@@ -28,13 +29,8 @@
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
-      "branch_mapping": { }
-    },
-    {
-      "path_to_root": "_themes.pdf",
-      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
-      "branch": "master"
-	  }
+      "branch_mapping": {}
+    }
   ],
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
