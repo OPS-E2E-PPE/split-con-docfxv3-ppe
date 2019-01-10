@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "split-con-ppe",
+      "docset_name": "split-con-docfxv3-ppe",
       "build_source_folder": "split",
-      "build_output_subfolder": "split-ppe",
+      "build_output_subfolder": "split-docfxv3-ppe",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -37,5 +37,6 @@
 	  }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "use_docfxv3": true
 }
