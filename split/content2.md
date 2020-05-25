@@ -1,4 +1,4 @@
-﻿---
+---
 title: Content2
 author: opstest2
 ---
